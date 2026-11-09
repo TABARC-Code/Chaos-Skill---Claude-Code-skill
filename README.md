@@ -58,4 +58,4 @@ Target success 0.75, safe band 0.55 to 0.95, Elo scale 200, K from 32 down to 16
 
 ## Licence
 
-Not set. Add one before sharing it around.
+MIT. See `LICENSE`.
